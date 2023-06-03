@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tetris.Game.Results.ChangeResult" Collapsed="true">
+    <Position X="13.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAgAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Results\ChangeResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Results.HoldResult" Collapsed="true">
+    <Position X="11" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Results\HoldResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Results.MoveDownResult" Collapsed="true">
+    <Position X="13.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAgAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Results\MoveDownResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Results.TetrominoInitializationResult" Collapsed="true">
+    <Position X="15.5" Y="12.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Results\TetrominoInitializationResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Results.VanishRowResult">
+    <Position X="71.25" Y="9" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAACAAAAAAAAAI=</HashCode>
+      <FileName>Results\VanishRowResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.DRTetrominoExtra" Collapsed="true">
+    <Position X="51.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\DRTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.DTetrominoExtra" Collapsed="true">
+    <Position X="60.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\DTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.ITetromino" Collapsed="true">
+    <Position X="13.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAACAAAIAAAAAAAAAMAAAAECAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\ITetromino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.ITetrominoExtra" Collapsed="true">
+    <Position X="22.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAACAAAIAAAAAAAAAMAAAAECAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\ITetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.JTetromino" Collapsed="true">
+    <Position X="31.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\JTetromino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.JTetrominoExtra" Collapsed="true">
+    <Position X="40.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\JTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.KTetrominoExtra" Collapsed="true">
+    <Position X="47" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\KTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.LLTetrominoExtra" Collapsed="true">
+    <Position X="53.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\LLTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.LTetromino" Collapsed="true">
+    <Position X="62.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\LTetromino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.LTetrominoExtra" Collapsed="true">
+    <Position X="15.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\LTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.OTetromino" Collapsed="true">
+    <Position X="24.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\OTetromino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.PRTetrominoExtra" Collapsed="true">
+    <Position X="33.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\PRTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.PTetrominoExtra" Collapsed="true">
+    <Position X="42.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\PTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.QRTetrominoExtra" Collapsed="true">
+    <Position X="49.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\QRTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.QTetrominoExtra" Collapsed="true">
+    <Position X="56" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\QTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.RRTetrominoExtra" Collapsed="true">
+    <Position X="65" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\RRTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.RTetrominoExtra" Collapsed="true">
+    <Position X="17.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\RTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.STetromino" Collapsed="true">
+    <Position X="26.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\STetromino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.STetrominoExtra" Collapsed="true">
+    <Position X="35.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\STetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.Tetromino" Collapsed="true">
+    <Position X="40.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEgQAAAAAEGAMIAACAAgAAEAAAAEKMwAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\Tetromino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.TetrominoExtra">
+    <Position X="75.25" Y="10.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEAEgQAAAAAEGAMIAACAAgAAEAAAAEKMwAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\TetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.TTetromino" Collapsed="true">
+    <Position X="58.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\TTetromino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.TTetrominoExtra" Collapsed="true">
+    <Position X="67.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\TTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.UTetrominoExtra" Collapsed="true">
+    <Position X="20" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\UTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.ZRTetrominoExtra" Collapsed="true">
+    <Position X="29" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\ZRTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.ZTetromino" Collapsed="true">
+    <Position X="38" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\ZTetromino.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetriminoes.ZTetrominoExtra" Collapsed="true">
+    <Position X="44.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tetriminoes\ZTetrominoExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Block" Collapsed="true">
+    <Position X="66.25" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAYAA=</HashCode>
+      <FileName>Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.BlockEventArgs">
+    <Position X="71.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlockEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Deck" Collapsed="true">
+    <Position X="73" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEgIAABIAAAYIAAAACAEAAAAAQAAgAAAAAAACAAAA=</HashCode>
+      <FileName>Deck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.ExtensionMethods">
+    <Position X="75.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExtensionMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.GameEventsEventArgs">
+    <Position X="73.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameEventsEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.NextTetrominoesEventArg">
+    <Position X="79.5" Y="13.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NextTetrominoesEventArg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.ScoreEventArgs">
+    <Position X="78" Y="7.75" Width="9.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAADAAAAAAAAAAA=</HashCode>
+      <FileName>ScoreEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.ScoreManagement" Collapsed="true">
+    <Position X="76.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAgCAAAAAAIgAAAAAAACAQAAIAAAAQQ=</HashCode>
+      <FileName>ScoreManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetris" Collapsed="true">
+    <Position X="78.5" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>kAAgnAkEcOgEERgAQAWAACIkEAgFkMCPwAABIAoAIAI=</HashCode>
+      <FileName>Tetris.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.TetrominoHandler" Collapsed="true">
+    <Position X="83.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIAACCAAgAABAQAAQQABAAEAkAgAgEAIQIAEAAIgAAA=</HashCode>
+      <FileName>TetrominoHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetrominos18BagRandomizer" Collapsed="true">
+    <Position X="78.75" Y="10.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAE=</HashCode>
+      <FileName>Tetrominos18BagRandomizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Game.Tetrominos7BagRandomizer" Collapsed="true">
+    <Position X="68.75" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAE=</HashCode>
+      <FileName>Tetrominos7BagRandomizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Tetris.Game.BlockStatus">
+    <Position X="69.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAARUAAAgAhAgAAAAAAAAAAAAAgQAgAAkgDAMAAA=</HashCode>
+      <FileName>BlockStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Tetris.Game.GameEvent">
+    <Position X="71.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAHBAAAAoAAAQiAQAAQCBAQAAAAQAAACEAAAEQBA=</HashCode>
+      <FileName>GameEvent.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Tetris.Game.GameStatus">
+    <Position X="73.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAggAAAAAAAAAIAAAAAAAAAAAAAAAAIAAAAAAEAAAA=</HashCode>
+      <FileName>GameStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Tetris.Game.Level">
+    <Position X="73.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAEAAEAIAAAAAFBAAAAAgAAAgAAIA=</HashCode>
+      <FileName>Level.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
